@@ -1,4 +1,4 @@
-# Madrasa-e-Riyaziyat 2026
+# Madrasa-e-Riyaziyat
 
 This repository contains the lesson planning documents and curriculum design for **Madrasa-e-Riyaziyat**, a one-week mathematical summer program organized by the Math Club.
 
@@ -14,7 +14,7 @@ Madrasa-e-Riyaziyat is designed to introduce students to mathematical thinking b
 └── README.md
 ```
 
-* `plan.tex` contains the LaTeX source for the lesson plan and curriculum outline.
+* `plan.tex` contains the LaTeX source for the general lesson plan and curriculum outline for the year 2026.
 
 ## Compilation
 
