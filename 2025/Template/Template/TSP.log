@@ -1,0 +1,1178 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2025.1.31)  31 JUL 2025 22:15
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Areesha Kashif/OneDrive - Habib University/Semester 3/NOC/Template/Template/TSP.tex"
+(c:/Users/Areesha Kashif/OneDrive - Habib University/Semester 3/NOC/Template/Template/TSP.tex
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-25>
+(C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/exam\exam.cls
+Document Class: exam 2023/07/09 Version 2.704 by Philip Hirschhorn
+(C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+\@extrawidth=\skip51
+\@rightmargin=\skip52
+\@extrahead=\skip53
+\@extrafoot=\skip54
+\run@exhd=\skip55
+\fp@exhd=\skip56
+\run@exft=\skip57
+\fp@exft=\skip58
+\covrun@exhd=\skip59
+\covfp@exhd=\skip60
+\covrun@exft=\skip61
+\covfp@exft=\skip62
+\c@num@coverpages=\count266
+\c@latest@ques=\count267
+\c@ques@end=\count268
+\c@last@object=\count269
+\c@incmp@ques=\count270
+\c@next@ques=\count271
+\c@next@page=\count272
+\c@tmp@hlfcntr=\count273
+\c@ifpos@cntr=\count274
+\c@question=\count275
+\c@partno=\count276
+\c@subpart=\count277
+\c@subsubpart=\count278
+\c@choice=\count279
+\c@numpoints=\count280
+\c@numbonuspoints=\count281
+\c@pointsof@thisquestion=\count282
+\c@bonuspointsof@thisquestion=\count283
+\c@numquestions=\count284
+\c@numparts=\count285
+\c@numsubparts=\count286
+\c@numsubsubparts=\count287
+\c@Curr@Page=\count288
+\c@@pagepoints=\count289
+\c@@pagebonuspoints=\count290
+\c@pageof@pagepoints=\count291
+\c@pageof@pagebonuspoints=\count292
+\c@latest@points=\count293
+\c@latest@bonuspoints=\count294
+\pageinfo@commands=\toks17
+\temp@toks=\toks18
+\pagepoint@commands=\toks19
+\point@toks=\toks20
+\c@ques@object=\count295
+\marginpointssep=\skip63
+\rightpointsmargin=\skip64
+\choice@toks=\toks21
+\answerlinelength=\skip65
+\answerskip=\skip66
+\answerclearance=\skip67
+\fillinlinelength=\skip68
+\linefillheight=\skip69
+\linefillthickness=\skip70
+\dottedlinefillheight=\skip71
+\gridsize=\skip72
+\gridlinewidth=\skip73
+\minboxheight=\skip74
+\c@@iterator=\count296
+\@cellwidth=\skip75
+\c@tbl@points=\count297
+\c@tbl@bonuspoints=\count298
+\c@pq@index=\count299
+\c@pq@index@pts=\count300
+\c@pq@index@bpts=\count301
+\c@num@cols=\count302
+\c@num@rows=\count303
+\c@current@row=\count304
+\c@cols@done=\count305
+\c@exam@saved@eqnum=\count306
+\exam@box=\box52
+\saved@totalleftmargin=\dimen142
+\@sollistdepth=\count307
+\exam@FrameRule=\dimen143
+\exam@FrameSep=\dimen144
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip76
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen145
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count308
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count309
+\leftroot@=\count310
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count311
+\DOTSCASE@=\count312
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count313
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count314
+\dotsspace@=\muskip17
+\c@parentequation=\count315
+\dspbrk@lvl=\count316
+\tag@help=\toks23
+\row@=\count317
+\column@=\count318
+\maxfields@=\count319
+\andhelp@=\toks24
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks25
+\multlinegap=\skip77
+\multlinetaggap=\skip78
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks27
+\thm@bodyfont=\toks28
+\thm@headfont=\toks29
+\thm@notefont=\toks30
+\thm@headpunct=\toks31
+\thm@preskip=\skip79
+\thm@postskip=\skip80
+\thm@headsep=\skip81
+\dth@everypar=\toks32
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks33
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count320
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count321
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen156
+\Hy@linkcounter=\count322
+\Hy@pagecounter=\count323
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count324
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count325
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen157
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count326
+\Field@Width=\dimen158
+\Fld@charsize=\dimen159
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count327
+\c@Item=\count328
+\c@Hfootnote=\count329
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box55
+\c@Hy@AnnotLevel=\count330
+\HyField@AnnotCount=\count331
+\Fld@listcount=\count332
+\c@bookmark@seq@number=\count333
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip82
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks34
+\pgfutil@tempdima=\dimen160
+\pgfutil@tempdimb=\dimen161
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box56
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks35
+\pgfkeys@temptoks=\toks36
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks37
+))
+\pgf@x=\dimen162
+\pgf@y=\dimen163
+\pgf@xa=\dimen164
+\pgf@ya=\dimen165
+\pgf@xb=\dimen166
+\pgf@yb=\dimen167
+\pgf@xc=\dimen168
+\pgf@yc=\dimen169
+\pgf@xd=\dimen170
+\pgf@yd=\dimen171
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count334
+\c@pgf@countb=\count335
+\c@pgf@countc=\count336
+\c@pgf@countd=\count337
+\t@pgf@toka=\toks38
+\t@pgf@tokb=\toks39
+\t@pgf@tokc=\toks40
+\pgf@sys@id@count=\count338
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-xetex.def
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-xetex.def
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count339
+))) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count340
+\pgfsyssoftpath@bigbuffer@items=\count341
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen172
+\pgfmath@count=\count342
+\pgfmath@box=\box57
+\pgfmath@toks=\toks41
+\pgfmath@stack@operand=\toks42
+\pgfmath@stack@operation=\toks43
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count343
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen173
+\pgf@picmaxx=\dimen174
+\pgf@picminy=\dimen175
+\pgf@picmaxy=\dimen176
+\pgf@pathminx=\dimen177
+\pgf@pathmaxx=\dimen178
+\pgf@pathminy=\dimen179
+\pgf@pathmaxy=\dimen180
+\pgf@xx=\dimen181
+\pgf@xy=\dimen182
+\pgf@yx=\dimen183
+\pgf@yy=\dimen184
+\pgf@zx=\dimen185
+\pgf@zy=\dimen186
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen187
+\pgf@path@lasty=\dimen188
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen189
+\pgf@shorten@start@additional=\dimen190
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count344
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen191
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen192
+\pgf@pt@y=\dimen193
+\pgf@pt@temp=\dimen194
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen195
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen196
+\pgf@sys@shading@range@num=\count345
+\pgf@shadingcount=\count346
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box61
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box62
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen197
+\pgf@nodesepend=\dimen198
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen199
+\pgffor@skip=\dimen256
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count347
+\pgfplotmarksize=\dimen257
+)
+\tikz@lastx=\dimen258
+\tikz@lasty=\dimen259
+\tikz@lastxsaved=\dimen260
+\tikz@lastysaved=\dimen261
+\tikz@lastmovetox=\dimen262
+\tikz@lastmovetoy=\dimen263
+\tikzleveldistance=\dimen264
+\tikzsiblingdistance=\dimen265
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count348
+\tikznumberofchildren=\count349
+\tikznumberofcurrentchild=\count350
+\tikz@fig@count=\count351
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count352
+\pgfmatrixcurrentcolumn=\count353
+\pgf@matrix@numberofcolumns=\count354
+)
+\tikz@expandcount=\count355
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/tikz-qtree\tikz-qtree.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/tikz-qtree\pgftree.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/tikz-qtree\pgfsubpic.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/tikz-qtree\pgfsubpic.tex
+\pgf@subpicminx=\dimen266
+\pgf@subpicminy=\dimen267
+\pgf@subpicmaxx=\dimen268
+\pgf@subpicmaxy=\dimen269
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/tikz-qtree\pgftree.tex
+\levelsep=\dimen270
+\subtreesep=\dimen271
+\smuggle@levelsep=\dimen272
+\smuggle@subtreesep=\dimen273
+\this@levelsep=\dimen274
+\this@subtreesep=\dimen275
+\pgftree@childx=\dimen276
+\pgftree@savechildx=\dimen277
+\pgftree@childy=\dimen278
+\pgftree@savechildy=\dimen279
+\pgftree@childi=\count356
+\pgftree@savechildi=\count357
+\pgftree@level=\count358
+\pgftree@depth=\dimen280
+\pgf@subpic@hbox@children=\box67
+\pgf@subpic@minx@children=\dimen281
+\pgf@subpic@miny@children=\dimen282
+\pgf@subpic@maxx@children=\dimen283
+\pgf@subpic@maxy@children=\dimen284
+\pgftree@lastchildx=\dimen285
+\pgftree@lastchildy=\dimen286
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/tikz-qtree\tikz-qtree.tex
+\@result=\toks46
+\child@list=\toks47
+\root@node=\toks48
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count359
+\Gm@cntv=\count360
+\c@Gm@tempcnt=\count361
+\Gm@bindingoffset=\dimen287
+\Gm@wd@mp=\dimen288
+\Gm@odd@mp=\dimen289
+\Gm@even@mp=\dimen290
+\Gm@layoutwidth=\dimen291
+\Gm@layoutheight=\dimen292
+\Gm@layouthoffset=\dimen293
+\Gm@layoutvoffset=\dimen294
+\Gm@dimlist=\toks49
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\arabtex.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\aconfig.sty
+LaTeX2e detected 
+\a@moduledate=\count362
+\a@maindate=\count363
+)
+Package: arabtex 2003/08/22  3.11 ArabTeX main module
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\arabaux.sty
+Package: arabaux 2003/05/21  3.11 auxiliary macros for ArabTeX
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\acmd.sty
+Package: acmd 2003/08/20  3.11 Arabic command processing 
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\afonts.sty
+Package: afonts 1995/11/16  3.04 define Naskh font 
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\afonts2.sty
+Package: afonts2 1998/10/19  3.10 define Naskh fonts for LaTeX2e
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\ascan.sty
+Package: ascan 2003/08/22  3.11 standard ZDMG input encoding 
+ (ArabTeX) scanner for code `arabtex' installed. (ArabTeX) input encoding set to ArabTeX standard conventions.) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\aparse.sty
+Package: aparse 2003/05/26  3.11 get syllables 
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\awrite.sty
+Package: awrite 2003/06/05  3.11 build output word 
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\xarbsymb.sty
+Package: xarbsymb 1998/07/15  3.07 symbolic output encoding 
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\arabskel.sty
+Package: arabskel 2000/06/04  3.10 character skeleton definitions 
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\xarbskel.sty
+Package: xarbskel 1999/07/17  3.09 character skeleton definitions 
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\aboxes.sty
+Package: aboxes 2003/05/28  3.11 build output boxes
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\arabtoks.sty
+Package: arabtoks 1999/07/17  3.09 ArabTeX CS token definitions 
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\arabchrs.sty
+Package: arabchrs 1998/07/11  3.07 letter token definitions 
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\aligs.sty
+Package: aligs 2003/05/26  3.11 compute ligatures
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\aoutput.sty
+Package: aoutput 2000/06/04  3.10 build output lines
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\abidir.sty
+Package: abidir 2003/08/22  3.11 bidirectional linebreaking
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\atrans.sty
+Package: atrans 2003/06/14  3.11 generate the transliteration 
+ (ArabTeX) ZDMG transliteration.) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\alatex.sty
+Package: alatex 2003/05/04  3.11 ArabTeX extensions for LaTeX 
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\afoot.sty
+Package: afoot 2003/05/12  3.11 ArabTeX footnotes
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\abjad.sty
+Package: abjad 2003/04/26  3.11 abjad numerals 
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\apatch.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\alists.sty
+Package: alists 2003/04/26  3.11 inverted list macros
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\asect.sty
+Package: asect 2003/04/26  3.11 section macros for Arabic
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\atabg.sty
+Package: atabg 1997/01/21  3.05 LaTeX tabbing macros for Arabic
+)
+Invalid UTF-8 byte or sequence at line 1299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1300 replaced by U+FFFD.
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006)
+Package: apatch 2006/07/02  3.11s last minute patches 
+)
+Arabic processor `ArabTeX' [20060702 patch level 3.11s (02.07.2006)]
+(ArabTeX) ... now be patient ... ) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\polyglossia.sty
+Package: polyglossia 2024/09/23 v2.3 Modern multilingual typesetting with XeLaTeX and LuaLaTeX
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-12-25 L3 programming layer (loader) 
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count393
+\l__pdf_internal_box=\box83
+\g__pdf_backend_annotation_int=\count394
+\g__pdf_backend_link_int=\count395
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count396
+\l__fontspec_language_int=\count397
+\l__fontspec_strnum_int=\count398
+\l__fontspec_tmp_int=\count399
+\l__fontspec_tmpa_int=\count400
+\l__fontspec_tmpb_int=\count401
+\l__fontspec_tmpc_int=\count402
+\l__fontspec_em_int=\count403
+\l__fontspec_emdef_int=\count404
+\l__fontspec_strong_int=\count405
+\l__fontspec_strongdef_int=\count406
+\l__fontspec_tmpa_dim=\dimen317
+\l__fontspec_tmpb_dim=\dimen318
+\l__fontspec_tmpc_dim=\dimen319
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+\l_xpg_alias_keyvals_int=\count407
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+)) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-english.ldf
+File: gloss-english.ldf polyglossia: module for English
+)
+
+Package polyglossia Info: Default language is english
+
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-urdu.ldf
+File: gloss-urdu.ldf polyglossia: module for Urdu
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\bidi.sty
+Package: bidi 2025/01/16 v41.6 (Release Maryam Mirzakhani) Bidirectional typesetting in plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2025 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v41.6 (Release Maryam Mirzakhani), 2025/01/16
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/xepersian/bidi/issues
+* 
+* Discussions: https://github.com/xepersian/bidi/discussions
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\biditools.sty
+Package: biditools 2025/01/03 v2.6 Programming tools for bidi package
+\@bidi@envbody=\toks70
+\@bidi@emptytoks=\toks71
+\bidi@poscount=\count408
+\bidi@tempcountb=\count409
+\bidi@temptoksa=\toks72
+\bidi@temptoksb=\toks73
+\bidi@dummies=\count410
+\bidi@are@these@correct=\toks74
+\bidi@toks@lista=\toks75
+\bidi@toks@listb=\toks76
+\bidi@stack@length=\count411
+\bidi@empty@stack=\toks77
+\bidi@looprepeat@depth=\count412
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+
+
+Package auxhook Warning: Cannot patch \document,
+(auxhook)                using \AtBeginDocument instead.
+
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count413
+Package zref Info: New property: abspage on input line 67.
+)
+\@bidi@copyins@=\insert252
+\bidi@typesethour=\count414
+\bidi@typesetminute=\count415
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2025/01/03 v1.5.2 bidi adaptations for `latex.ltx' for XeTeX engine
+\bidi@n@everypar=\toks78
+LaTeX Info: Redefining \centerline on input line 316.
+LaTeX Info: Redefining \leftline on input line 325.
+LaTeX Info: Redefining \rightline on input line 326.
+LaTeX Info: Redefining \underline on input line 334.
+\bidi@column@check@number=\count416
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2024/12/14 v1.3 bidi footnote macros for XeTeX engine
+\c@footdir@label=\count417
+\footdir@toks=\toks79
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\article-xetex-bidi.def
+File: article-xetex-bidi.def 2025/01/05 v0.9 bidi adaptations for standard article class for XeTeX engine
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\amsmath-xetex-bidi.def
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath package for XeTeX engine
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\amstext-xetex-bidi.def
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext package for XeTeX engine
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\amsthm-xetex-bidi.def
+File: amsthm-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for amsthm package for XeTeX engine
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\color-xetex-bidi.def
+File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package for XeTeX engine
+LaTeX Info: Redefining \color on input line 49.
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\geometry-xetex-bidi.def
+File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry package for XeTeX engine
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\graphicx-xetex-bidi.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx package for XeTeX engine
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\hyperref-xetex-bidi.def
+File: hyperref-xetex-bidi.def 2025/01/05 v1.4 bidi adaptations for hyperref package for XeTeX engine
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\pgfsys-xetex-bidi.def
+File: pgfsys-xetex-bidi.def 2025/01/05 v0.1 bidi adaptations for pgfsys package for XeTeX engine
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\xcolor-xetex-bidi.def
+File: xcolor-xetex-bidi.def 2022/06/13 v0.3 bidi adaptations for xcolor package for XeTeX engine
+LaTeX Info: Redefining \color on input line 48.
+LaTeX Info: Redefining \bidicolor on input line 91.
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\pgfcorescopes.code-xetex-bidi.def
+File: pgfcorescopes.code-xetex-bidi.def 2015/11/14 v0.1 bidi adaptations for pgf package for XeTeX engine
+))
+\bidi@digits=\count418
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\arabicnumbers.sty
+Package: arabicnumbers 2010/03/18 v0.2 Formatting of Arabic and Farsi digits and of Arabic abjad numerals
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\hijrical.sty
+Package: hijrical 2010/07/12 v0.2 Islamic calendar
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count419
+\calc@Bcount=\count420
+\calc@Adimen=\dimen320
+\calc@Bdimen=\dimen321
+\calc@Askip=\skip85
+\calc@Bskip=\skip86
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count421
+\calc@Cskip=\skip87
+) (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\cal-util.def
+\c@tmpA=\count422
+\c@tmpB=\count423
+\c@tmpC=\count424
+\c@tmpD=\count425
+\c@tmpE=\count426
+\c@tmpF=\count427
+)
+\c@Hijriday=\count428
+\c@Hijrimonth=\count429
+\c@Hijriyear=\count430
+))
+
+Package fontspec Info: 
+(fontspec)             jameel scale = 1.25.
+
+
+Package fontspec Info: 
+(fontspec)             jameel scale = 1.25.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'jameel.ttf(0)' created for font
+(fontspec)             'jameel.ttf' with options [Scale=1.25].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.25]"[jameel.ttf]/OT:language=dflt;"
+
+\c@corrolary=\count431
+\c@theorem=\count432
+\c@lemma=\count433
+\c@proposition=\count434
+\c@corollary=\count435
+\c@definition=\count436
+ (TSP.aux)
+\openout1 = `TSP.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+Package hyperref Info: Link coloring OFF on input line 52.
+ (TSP.out) (TSP.out)
+\@outlinefile=\write6
+\openout6 = `TSP.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-31.1381pt
+* \headheight=15.0pt
+* \headsep=15.0pt
+* \topskip=12.0pt
+* \footskip=29.0pt
+* \marginparwidth=36.135pt
+* \marginparsep=5.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 52.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 52.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 52.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 52.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 52.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 52.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 52.
+LaTeX Font Info:    Redeclaring math accent \check on input line 52.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 52.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 52.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 52.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 52.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 52.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 52.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 52.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 52.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 52.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 52.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 52.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 52.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 52.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 52.
+(C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\apatch.sty
+Invalid UTF-8 byte or sequence at line 1299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 1300 replaced by U+FFFD.
+\a@lines=\count437
+\a@Lwidth=\dimen322
+\a@displaywidth=\dimen323
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/arabtex\alocal.sty (ArabTeX) 3.11 local stub, 26.02.2006) (ArabTeX) version 3.11s (02.07.2006): second phase of patching)
+File: math club logo.png Graphic file (type bmp)
+<math club logo.png>
+
+Overfull \hbox (37.76494pt too wide) in paragraph at lines 58--60
+[][] []
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
+(C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
+ (C:\Users\Areesha Kashif\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `TU/jameel.ttf(0)/m/n' will be
+(Font)              scaled to size 31.1pt on input line 64.
+File: Traveling salesman problem (TSP) 1.png Graphic file (type bmp)
+<Traveling salesman problem (TSP) 1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+[][]
+ []
+
+File: weighted graph.jpeg Graphic file (type bmp)
+<weighted graph.jpeg>
+
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+[][]
+ []
+
+File: travelling.png Graphic file (type bmp)
+<travelling.png>
+
+
+[2]
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
+[][]
+ []
+
+
+
+[4]
+
+[5]
+This exam contains 0 questions with 0 parts, 0 subparts, and 0 subsubparts.
+(TSP.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-25>
+ ***********
+
+
+ *File List*
+    exam.cls    2023/07/09 Version 2.704 by Philip Hirschhorn
+  ifthen.sty    2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+ article.cls    2024/06/29 v1.4n Standard LaTeX document class
+  size12.clo    2024/06/29 v1.4n Standard LaTeX file (size option)
+ amsmath.sty    2024/11/05 v2.17t AMS math features
+ amstext.sty    2021/08/26 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2022/04/08 v2.04 operator names
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+  amsthm.sty    2020/05/29 v2.20.6
+graphicx.sty    2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+  keyval.sty    2022/05/29 v1.15 key=value parser (DPC)
+graphics.sty    2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2023/12/02 v1.11 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+   xetex.def    2022/09/22 v5.0n Graphics/color driver for xetex
+hyperref.sty    2024-11-05 v7.01l Hypertext links for LaTeX
+   iftex.sty    2024/12/12 v1.0g TeX engine tests
+kvsetkeys.sty    2022-10-05 v1.19 Key value parser (HO)
+kvdefinekeys.sty    2019-12-19 v1.6 Define keys (HO)
+pdfescape.sty    2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ ltxcmds.sty    2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+pdftexcmds.sty    2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+infwarerr.sty    2019/12/03 v1.5 Providing info/warning/error messages (HO)
+ hycolor.sty    2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+ nameref.sty    2023-11-26 v2.56 Cross-referencing by name of section
+refcount.sty    2019/12/15 v3.6 Data extraction from label references (HO)
+gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
+kvoptions.sty    2022-06-15 v3.15 Key value format for package options (HO)
+etoolbox.sty    2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+stringenc.sty    2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+  pd1enc.def    2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+ intcalc.sty    2019/12/15 v1.3 Expandable calculations with integers (HO)
+   puenc.def    2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+  bitset.sty    2019/12/09 v1.3 Handle bit-vector datatype (HO)
+bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
+atbegshi-ltx.sty    2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+  hxetex.def    2024-11-05 v7.01l Hyperref driver for XeTeX
+rerunfilecheck.sty    2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+atveryend-ltx.sty    2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
+    tikz.sty    2023-01-15 v3.1.10 (3.1.10)
+     pgf.sty    2023-01-15 v3.1.10 (3.1.10)
+  pgfrcs.sty    2023-01-15 v3.1.10 (3.1.10)
+pgfrcs.code.tex
+ pgfcore.sty    2023-01-15 v3.1.10 (3.1.10)
+  pgfsys.sty    2023-01-15 v3.1.10 (3.1.10)
+pgfsys.code.tex
+pgfsyssoftpath.code.tex    2023-01-15 v3.1.10 (3.1.10)
+pgfsysprotocol.code.tex    2023-01-15 v3.1.10 (3.1.10)
+  xcolor.sty    2024/09/29 v3.02 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+mathcolor.ltx
+pgfcore.code.tex
+pgfcomp-version-0-65.sty    2023-01-15 v3.1.10 (3.1.10)
+pgfcomp-version-1-18.sty    2023-01-15 v3.1.10 (3.1.10)
+  pgffor.sty    2023-01-15 v3.1.10 (3.1.10)
+ pgfkeys.sty    
+pgfkeys.code.tex
+ pgfmath.sty    
+pgfmath.code.tex
+pgffor.code.tex
+tikz.code.tex
+tikz-qtree.sty    
+ pgftree.sty    
+pgfsubpic.sty    
+pgfsubpic.tex
+ pgftree.tex
+tikz-qtree.tex
+geometry.sty    2020/01/02 v5.9 Page Geometry
+  ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+geometry.cfg
+ arabtex.sty    2003/08/22  3.11 ArabTeX main module
+ arabaux.sty    2003/05/21  3.11 auxiliary macros for ArabTeX
+    acmd.sty    2003/08/20  3.11 Arabic command processing 
+  afonts.sty    1995/11/16  3.04 define Naskh font 
+ afonts2.sty    1998/10/19  3.10 define Naskh fonts for LaTeX2e
+   ascan.sty    2003/08/22  3.11 standard ZDMG input encoding 
+  aparse.sty    2003/05/26  3.11 get syllables 
+  awrite.sty    2003/06/05  3.11 build output word 
+xarbsymb.sty    1998/07/15  3.07 symbolic output encoding 
+arabskel.sty    2000/06/04  3.10 character skeleton definitions 
+xarbskel.sty    1999/07/17  3.09 character skeleton definitions 
+  aboxes.sty    2003/05/28  3.11 build output boxes
+arabtoks.sty    1999/07/17  3.09 ArabTeX CS token definitions 
+arabchrs.sty    1998/07/11  3.07 letter token definitions 
+   aligs.sty    2003/05/26  3.11 compute ligatures
+ aoutput.sty    2000/06/04  3.10 build output lines
+  abidir.sty    2003/08/22  3.11 bidirectional linebreaking
+  atrans.sty    2003/06/14  3.11 generate the transliteration 
+  alatex.sty    2003/05/04  3.11 ArabTeX extensions for LaTeX 
+   afoot.sty    2003/05/12  3.11 ArabTeX footnotes
+   abjad.sty    2003/04/26  3.11 abjad numerals 
+  apatch.sty    2006/07/02  3.11s last minute patches 
+  alists.sty    2003/04/26  3.11 inverted list macros
+   asect.sty    2003/04/26  3.11 section macros for Arabic
+   atabg.sty    1997/01/21  3.05 LaTeX tabbing macros for Arabic
+polyglossia.sty    2024/09/23 v2.3 Modern multilingual typesetting with XeLaTeX and LuaLaTeX
+fontspec.sty    2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+  xparse.sty    2024-08-16 L3 Experimental document command parser
+   expl3.sty    2024-12-25 L3 programming layer (loader) 
+l3backend-xetex.def    2024-05-08 L3 backend support: XeTeX
+fontspec-xetex.sty    2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+ fontenc.sty    2021/04/29 v2.0v Standard LaTeX package
+fontspec.cfg
+gloss-latex.ldf    polyglossia: module for default language
+gloss-english.ldf    polyglossia: module for English
+gloss-urdu.ldf    polyglossia: module for Urdu
+    bidi.sty    2025/01/16 v41.6 (Release Maryam Mirzakhani) Bidirectional typesetting in plain TeX and LaTeX
+biditools.sty    2025/01/03 v2.6 Programming tools for bidi package
+zref-abspage.sty    2023-09-14 v2.35 Module abspage for zref (HO)
+zref-base.sty    2023-09-14 v2.35 Module base for zref (HO)
+etexcmds.sty    2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ auxhook.sty    2019-12-17 v1.6 Hooks for auxiliary files (HO)
+latex-xetex-bidi.def    2025/01/03 v1.5.2 bidi adaptations for `latex.ltx' for XeTeX engine
+footnote-xetex-bidi.def    2024/12/14 v1.3 bidi footnote macros for XeTeX engine
+article-xetex-bidi.def    2025/01/05 v0.9 bidi adaptations for standard article class for XeTeX engine
+amsmath-xetex-bidi.def    2020/05/16 v1.2 bidi adaptations for amsmath package for XeTeX engine
+amstext-xetex-bidi.def    2016/09/12 v0.2 bidi adaptations for amstext package for XeTeX engine
+amsthm-xetex-bidi.def    2010/07/25 v0.1 bidi adaptations for amsthm package for XeTeX engine
+color-xetex-bidi.def    2013/04/08 v0.2 bidi adaptations for color package for XeTeX engine
+geometry-xetex-bidi.def    2017/01/14 v0.2 bidi adaptations for geometry package for XeTeX engine
+graphicx-xetex-bidi.def    2017/06/17 v0.5 bidi adaptations for graphicx package for XeTeX engine
+hyperref-xetex-bidi.def    2025/01/05 v1.4 bidi adaptations for hyperref package for XeTeX engine
+pgfsys-xetex-bidi.def    2025/01/05 v0.1 bidi adaptations for pgfsys package for XeTeX engine
+xcolor-xetex-bidi.def    2022/06/13 v0.3 bidi adaptations for xcolor package for XeTeX engine
+pgfcorescopes.code-xetex-bidi.def    2015/11/14 v0.1 bidi adaptations for pgf package for XeTeX engine
+arabicnumbers.sty    2010/03/18 v0.2 Formatting of Arabic and Farsi digits and of Arabic abjad numerals
+hijrical.sty    2010/07/12 v0.2 Islamic calendar
+    calc.sty    2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+cal-util.def
+     TSP.out
+     TSP.out
+  apatch.sty    2006/07/02  3.11s last minute patches 
+math club logo.png    Graphic file (type bmp)
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+Traveling salesman problem (TSP) 1.png    Graphic file (type bmp)
+weighted graph.jpeg    Graphic file (type bmp)
+travelling.png    Graphic file (type bmp)
+ ***********
+
+Package rerunfilecheck Info: File `TSP.out' has not changed.
+(rerunfilecheck)             Checksum: 468647B0BCEEAF292BF2EE7313F493A0;1686.
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 52 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 29895 strings out of 408650
+ 595149 string characters out of 5743192
+ 1037559 words of memory out of 5000000
+ 52422 multiletter control sequences out of 15000+600000
+ 563994 words of font info for 74 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 93i,7n,107p,1271b,1530s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on TSP.xdv (5 pages, 63528 bytes).
